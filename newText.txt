@@ -1,0 +1,13 @@
+Colors:
+Red
+Yellow
+White
+Blue
+Black 
+Orange
+Green
+Pink
+Purple
+Cyan
+Magenta
+
